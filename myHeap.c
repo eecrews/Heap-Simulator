@@ -1,32 +1,7 @@
-///////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2020-2021 Deb Deppeler based on work by Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission Fall 2020, CS354-deppeler
-//
-///////////////////////////////////////////////////////////////////////////////
-
-// DEB'S PARTIAL SOLUTION FOR SPRING 2021 DO NOT SHARE
-
-////////////////////////////////////////////////////////////////////////////////
 // Main File:        myHeap.c
 // This File:        myHeap.c
 // Other Files:      myHeap.h
-// Semester:         CS 354 Spring 2021
-//
-// Author:           Erin Crews
-// Email:            eecrews@wisc.edu
-// CS Login:         crews
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   Fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          N/A
-//
-// Online sources:   N/A
-//
-////////////////////////////////////////////////////////////////////////////////
+// Semester:         CS 354 
 
  
 #include <unistd.h>
