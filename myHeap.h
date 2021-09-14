@@ -1,4 +1,4 @@
-// Not created by Erin.
+// File provided by instructor.
 
 #ifndef __myHeap_h
 #define __myHeap_h
